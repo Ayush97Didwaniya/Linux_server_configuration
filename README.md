@@ -50,7 +50,7 @@ Source: i) [Ubuntu forums](https://ubuntuforums.org/showthread.php?t=1739013) <b
 ii) [Udacity classroom](https://classroom.udacity.com/nanodegrees/nd004/parts/ab002e9a-b26c-43a4-8460-dc4c4b11c379/modules/357367901175461/lessons/4331066009/concepts/48010894990923)
 <br>
 <br>
-3.5) Configure the Uncomplicated Firewall (UFW):
+3.5) Configure the Uncomplicated Firewall (UFW): <br>
 a) check status of ufw and make sure it is inactive. ```$ sudo ufw status ```.
 <br> then run command <br>
 b) ```$ sudo ufw defualt deny incoming```. <br>
